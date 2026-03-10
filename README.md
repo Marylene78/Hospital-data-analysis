@@ -40,3 +40,4 @@ Insights Delivered
 - Understand patient demographics for targeted resource allocation
 - Support healthcare planning in Kenyan counties
  
+![Hosi ](https://github.com/user-attachments/assets/da68377c-90cb-4d22-b6b6-0a1c86d02309)
